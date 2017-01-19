@@ -1,5 +1,6 @@
 body {
-    background-color: #999;
+    /*background-color: #999;*/
+    background-color: #8ca5ce;
     font-family: Verdana;
     text-align: center;
 
@@ -15,7 +16,7 @@ ul {
 
 ul li {
     display: inline-block;
-    /*text-align: center;*/
+
 }
 
 h1 {
@@ -24,4 +25,10 @@ h1 {
 
 main{
     padding: 4em;
+}
+
+figcaption{
+    font-size: 12px;
+    font-family: monospace;
+    font-weight: bold;
 }
